@@ -88,8 +88,4 @@ Langkah langkah remastering sebagai berikut :
 10. repack menjadi file .iso menggunakan pinguy builder versi 5.1.8
 11. Final project telah jadi
 
-link iso = https://drive.google.com/open?id=1Gik56yECCwcih-zy-el36ueUWmhKpv_H
-
-link video = https://www.youtube.com/watch?v=Wfy8ZOogdbM
-
 
